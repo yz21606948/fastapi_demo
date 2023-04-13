@@ -1,0 +1,7 @@
+fastapi[all]==0.95.0
+PyJWT==2.6.0
+tortoise-orm[aiomysql]==0.19.3
+qrcode[pil]==7.4.2
+passlib==1.7.4
+sqlmodel==0.0.8
+python-dotenv==1.0.0
